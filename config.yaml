@@ -1,0 +1,9 @@
+languageCode: "en-us"
+title: "aldente"
+baseURL: "http://cse125.ucsd.edu/2017/cse125g1"
+theme: "hyde"
+metaDataFormat: "yaml"
+
+params:
+  themeColor: "theme-base-0d"
+  description: "CSE 125"
