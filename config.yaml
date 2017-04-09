@@ -1,6 +1,6 @@
 languageCode: "en-us"
 title: "aldente"
-baseURL: "http://cse125.ucsd.edu/2017/cse125g1/aldente-site/public/"
+baseURL: "http://cse125.ucsd.edu/2017/cse125g1/hugo/"
 theme: "hyde"
 metaDataFormat: "yaml"
 
