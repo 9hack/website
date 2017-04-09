@@ -5,5 +5,4 @@ theme: "hyde"
 metaDataFormat: "yaml"
 
 params:
-  themeColor: "theme-base-0d"
   description: "CSE 125"
