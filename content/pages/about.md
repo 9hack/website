@@ -11,6 +11,6 @@ Dungeon Party is a game created for Professor Voelker's 2017 CSE 125 class. The 
 * Daniel Lee
 * Richard Lin
 * Christiane Pham
-* Varanon Pukasamsombut
+* Varanon Austin Pukasamsombut
 * Kavin Srithongkham
 * Joshua Tang
