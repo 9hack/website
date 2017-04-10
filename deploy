@@ -4,5 +4,4 @@
 dest=/var/www/html/class/cse125/www/2017/cse125g1/
 
 hugo
-rsync -az --delete public "cse125:$dest"
-ssh cse125 chmod -Rf g+rw "$dest"
+rsync -az --no-perms --delete --exclude=.wordpress public/ "cse125:$dest"
