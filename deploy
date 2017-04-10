@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 # Assumes cse125 configured as a host in ~/.ssh/config
 
+dest=/var/www/html/class/cse125/www/2017/cse125g1/
+
 hugo
-scp -r public/* cse125:/var/www/html/class/cse125/www/2017/cse125g1
+rsync -az --delete public "cse125:$dest"
+ssh cse125 chmod -Rf g+rw "$dest"
