@@ -105,23 +105,23 @@ If a slip in the schedule occurs and the development is behind schedule and/or b
 
 *Graphics Team (Rendering, Game logic):*
 
-Kavin Srithongkham
+* Kavin Srithongkham
 
-Varanon Austin Pukasamsombut
+* Varanon Austin Pukasamsombut
 
-Joshua Tang
+* Joshua Tang
 
 *Networking Team (Server/Client) :*
 
-Ethan Chan
+* Ethan Chan
 
-Richard Lin
+* Richard Lin
 
-Daniel Lee
+* Daniel Lee
 
 *Artist (Concept Art, 3D Modeling):*
 
-Christiane Pham
+* Christiane Pham
 
 Our development roles are divided into teams.  The graphics team has 3 members, and each will work on various graphics-related tasks on their own feature branches, and will code review each other’s changes.  Likewise, the networking team has 3 members and will function in the same way.  The gameplay and physics will likely be developed by all software group members.  As a result, our team does not necessarily have a hierarchy, as each developer’s roles are equal weighted in responsibility and power.
 
