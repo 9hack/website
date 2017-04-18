@@ -3,6 +3,7 @@ title: "9hack Studios"
 baseURL: "http://cse125.ucsd.edu/2017/cse125g1/"
 theme: "hyde"
 metaDataFormat: "yaml"
+canonifyURLs: true
 
 params:
   description: "CSE 125 - Group 1"

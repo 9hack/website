@@ -15,7 +15,7 @@ We want to create a game that contains both the sense of exploration and discove
 
 To better describe the game, we must first explain the general flow of the game. Each round consists of three main phases, starting with the build phase:
 
-![Game Flow](../../img/phases.png)
+![Game Flow](/img/diagrams/phases.png)
 
 *Beginning Phase:*
 
