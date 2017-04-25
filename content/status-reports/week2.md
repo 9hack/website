@@ -31,9 +31,11 @@ The group’s morale seems to be pretty average as we have been able to work a l
 
 **Screenshots**
 
-![image alt text](/img/screenshots/image_0.gif)
+![week 2 ui screenshot](/img/screenshots/week2.png)
 
-![image alt text](/img/screenshots/image_1.gif)
+![character model 1](/img/concept-art/characters/model1.gif)
+
+![character model 2](/img/concept-art/characters/model2.gif)
 
 ## Ethan
 
