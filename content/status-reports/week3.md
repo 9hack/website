@@ -35,13 +35,32 @@ Our group as a whole is also a bit worried about the overall progress of the gam
 
 ![build-phase-gif](/img/screenshots/build-ui.gif)
 
+#### Build phase UI
+<br>
+
 <video width="640" autoplay controls loop>
-  <source src="/img/screenshots/ui-anim.webm" type="video/webm">
+  <source src="/videos/ui-anim.webm" type="video/webm">
 </video>
+
+#### UI animation
+<br>
+
+<video width="640" autoplay controls loop>
+  <source src="/videos/basic-movement.mp4" type="video/mp4">
+</video>
+
+#### Basic movement and object interaction
+<br>
 
 ![boy_multi_anim](/img/screenshots/boy_multi_anim.gif)
 
+#### Character multiple animations
+<br>
+
 ![boy_walk.gif](/img/screenshots/boy_walk.gif)
+
+#### Character walking animation
+<br>
 
 
 ## Ethan
