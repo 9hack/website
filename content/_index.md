@@ -2,6 +2,8 @@
 date: 2017-04-10T15:58:40-07:00
 ---
 
+![screenshot](/img/sandma.png)
+
 # Sandma
 #### *Proudly presented by 9hack Studios*
 <br />

@@ -2,7 +2,7 @@
 date: 2017-06-15T00:53:22-07:00
 title: Final Project Review Document
 menu: main
-weight: 5
+weight: 6
 ---
 
 ## Main Questions
@@ -133,7 +133,12 @@ We ended up getting off schedule (delayed) pretty early in the quarter — perha
 
 **Please post four final screenshots of your game on your group pages for posterity. I will display them on the group web page.**
 
-* COMING SOON!
+![screenshot](/img/screenshots/1.PNG)
+![screenshot](/img/screenshots/6.PNG)
+![screenshot](/img/screenshots/mimic-chase.PNG)
+![screenshot](/img/screenshots/16.PNG)
+
+* Check out our [media page](/pages/media) for more screenshots.
 
 ## Course Feedback
 
