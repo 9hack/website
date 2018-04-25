@@ -1,6 +1,6 @@
 languageCode: "en-us"
 title: "9hack Studios"
-baseURL: "cse125.ucsd.edu/2017/cse125g1/"
+baseURL: "//cse125.ucsd.edu/2017/cse125g1/"
 theme: "hyde"
 metaDataFormat: "yaml"
 canonifyURLs: true
